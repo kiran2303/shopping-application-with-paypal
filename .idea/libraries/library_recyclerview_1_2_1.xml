@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-recyclerview-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/47d8baf45d4227e35f1a2dd46c03b910057418af/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/47d8baf45d4227e35f1a2dd46c03b910057418af/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twotoasters.jazzylistview/library-recyclerview/1.2.1/6bd04f834189c5a2e526c93503d359471c79bef2/library-recyclerview-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
